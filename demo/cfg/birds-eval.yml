@@ -1,0 +1,17 @@
+CONFIG_NAME: 'stageII'
+
+DATASET_NAME: 'birds'
+EMBEDDING_TYPE: 'cnn-rnn'
+GPU_ID: 0
+Z_DIM: 100
+
+TRAIN:
+    FLAG: False
+    PRETRAINED_MODEL: './models/birds_model_164000.ckpt'
+    BATCH_SIZE: 64
+    NUM_COPY: 8
+
+GAN:
+    EMBEDDING_DIM: 128
+    DF_DIM: 64
+    GF_DIM: 128
