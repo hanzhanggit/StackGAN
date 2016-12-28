@@ -6,7 +6,7 @@ with Stacked Generative Adversarial Networks](https://arxiv.org/pdf/1612.03242v1
 
 
 ### Dependencies
-[TensorFlow](https://www.tensorflow.org/get_started/os_setup)
+[TensorFlow 0.11](https://www.tensorflow.org/get_started/os_setup)
 
 [Optional] [Torch](http://torch.ch/docs/getting-started.html#_) is needed, if use the pre-trained char-CNN-RNN text encoder.
 
