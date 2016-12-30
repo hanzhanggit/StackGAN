@@ -6,7 +6,7 @@ with Stacked Generative Adversarial Networks](https://arxiv.org/pdf/1612.03242v1
 
 
 ### Dependencies
-[python 2.7]
+python 2.7
 
 [TensorFlow 0.11](https://www.tensorflow.org/get_started/os_setup)
 
