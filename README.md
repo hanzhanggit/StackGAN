@@ -3,9 +3,11 @@
 
 - [inception score evaluation](https://github.com/hanzhanggit/StackGAN-inception-model)
 
+- [StackGAN_v2-pytorch](https://github.com/hanzhanggit/StackGAN_v2)
+
 Tensorflow implementation for reproducing main results in the paper [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/pdf/1612.03242v2.pdf) by Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang,   Xiaolei Huang, Dimitris Metaxas.
 
-<img src="examples/framework.jpg" width="700px" height="370px"/>
+<img src="examples/framework.jpg" width="850px" height="370px"/>
 
 
 ### Dependencies
