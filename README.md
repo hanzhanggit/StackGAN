@@ -91,6 +91,10 @@ booktitle = {{ICCV}},
 }
 ```
 
+**Our follow-up work**
+
+- [StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/pdf/1710.10916.pdf)
+- [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://arxiv.org/abs/1711.10485) [supplementary](https://1drv.ms/b/s!Aj4exx_cRA4ghK5-kUG-EqH7hgknUA)
 
 **References**
 
